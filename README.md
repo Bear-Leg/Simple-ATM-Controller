@@ -2,7 +2,6 @@
 
 
 # How to run
-
 `$ cd Simple-ATM-Controller`  
 `$ mkdir build`  
 `$ cd build`  
