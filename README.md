@@ -4,14 +4,14 @@
 카드에 맞는 PIN번호를 입력(디폴트 카드의 PIN번호는 0000입니다.) -> 사용자 계정에 등록된 계좌를 선택 -> 입금/출금/잔액 선택 
 
 
-## 파일 설명 및 구조
+## File Struct
 - main.cpp : 프로그램의 메인 코드 입니다.
 
 ~~~
 ├──  README.md
 ├──  main.cpp
 ├──  CMakeLists.txt
-└── include
+└──  include
     ├── user.cpp / h
     ├── system.cpp / h
     ├── account.cpp /h
